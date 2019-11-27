@@ -49,7 +49,7 @@ namespace client.Menus
 
         public static async Task Draw()
         {
-            SetMenuTitle("owo", "what's this?");
+            SetMenuTitle("RPF", "Studio");
 
             int list = AddMenuOption("Player Listing", MenuId.MENU_PLAYERLIST);
 
